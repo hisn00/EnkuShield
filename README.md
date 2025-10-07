@@ -5,10 +5,6 @@
 > Decode. Encode. Protect.  
 > *A smart customizable encryption toolkit for developers, students and CTF enthusiasts.*
 
----
-
-## 🌍 Overview
-
 EnkuShield is an interactive cryptography tool designed for encoding and decoding text or files using multiple algorithms from common Base64 and Caesar Cipher to custom mathematical encryption formulas.
 
 Built with 💻 Python it combines simplicity, power and flexibility.  
