@@ -58,7 +58,7 @@ http://127.0.0.1:5000
 
 ---
 
-🧠 Example Use
+## 🧠 Example Use
 
 Encrypting a secret message:
 
@@ -72,14 +72,14 @@ Formula: (ord(c) + 7) % 256
 
 ---
 
-💡 Inspiration
+## 💡 Inspiration
 
 > The name EnkuShield comes from “Enku” meaning pearl or treasure symbolizing valuable protection.
 Just like a shield it guards your data with layers of encryption and creativity.
 
 ---
 
-🎮 Use in Capture The Flag (CTF)
+## 🎮 Use in Capture The Flag (CTF)
 
 EnkuShield is a powerful all in one CTF helper whether you’re reversing Base64, decoding ROT13 or testing XOR encryptio it’s got you covered.
 You can quickly test multiple ciphers when analyzing encoded strings or create your own encryption puzzles using custom formulas.
@@ -87,13 +87,13 @@ You can quickly test multiple ciphers when analyzing encoded strings or create y
 
 ---
 
-🧾 License
+## 🧾 License
 
 This project is licensed under the MIT License.
 
 ---
 
-🤝 Contribute
+## 🤝 Contribute
 
 Want to add your own cipher or formula idea?
 Fork the repo and submit a pull request!
@@ -101,7 +101,7 @@ Let’s make EnkuShield smarter together 🧠💪
 
 ---
 
-💬 Author
+## 💬 Author
 
 👩‍💻 Hisnul Mohammed
 ✨ Passionate about cybersecurity, AI, and creative encryption systems.
