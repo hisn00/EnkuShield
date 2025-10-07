@@ -105,7 +105,8 @@ Let’s make EnkuShield smarter together 🧠💪
 
 👩‍💻 Hisnul Mohammed
 ✨ Passionate about cybersecurity, AI, and creative encryption systems.
-📫 Reach out: <a href="https://www.linkedin.com/in/hisnul-mohammed-903a1831b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a> 
+📫 Reach out: 
+<a href="https://www.linkedin.com/in/hisnul-mohammed-903a1831b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a> 
 
 
 ---
