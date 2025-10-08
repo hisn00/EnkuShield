@@ -37,19 +37,6 @@ Perfect for:
 
 ---
 
-## 🧠 Example Use
-
-Encrypting a secret message:
-
-Text:  "HELLO"
-Method: Base64
-Output: "SEVMTE8="
-
-Or use your own formula:
-
-Formula: (ord(c) + 7) % 256
-
----
 
 ## 💡 Inspiration
 
