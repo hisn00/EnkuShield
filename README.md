@@ -37,25 +37,6 @@ Perfect for:
 
 ---
 
-## 🛠️ Installation
-
-Clone the repository and install Flask:
-
-`bash
-git clone https://github.com/yourusername/EnkuShield.git
-cd EnkuShield
-pip install flask
-
-Run the app:
-
-python app.py
-
-Then open your browser and go to:
-
-http://127.0.0.1:5000
-
----
-
 ## 🧠 Example Use
 
 Encrypting a secret message:
