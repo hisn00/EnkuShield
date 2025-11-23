@@ -1,6 +1,5 @@
 # 🛡️ EnkuShield
-
-> Decode. Encode. Protect.  
+ 
 > *A smart customizable encryption toolkit for developers, students and CTF enthusiasts.*
 
 EnkuShield is an interactive cryptography tool designed for encoding and decoding text or files using multiple algorithms from common Base64 and Caesar Cipher to custom mathematical encryption formulas.
@@ -16,34 +15,16 @@ Perfect for:
 
 ## ✨ Features
 
-- ✅ 15+ encryption/decryption methods — including Base64, Hex, ROT13, Binary, URL, Base32, ASCII, Caesar Cipher, Atbash Cipher, XOR Cipher, Unicode Shift Cipher, Multiplicative Cipher, Substitution Cipher, Reverse+XOR, Base64 (URL Safe)  
-- ✅ Custom Formula Mode — add your own math based encryption rule (e.g., (ord(c) + key * 2) % 256)  
+- ✅ 15+ encryption/decryption methods
+- ✅ Custom Formula Mode — add your own math based encryption rule
 - ✅ File encryption support    
 - ✅ Fast and simple Flask backend  
 - ✅ CTF ready — instantly encode/decode with all the common algorithms used in competitions  
-
----
-
-## 🧩 How It Works
-
-1. Choose an encryption method (Base64, XOR, etc.)  
-2. Enter your text or file  
-3. Hit Encrypt / Decrypt  
-4. For Custom Formula, enter a mathematical rule:
-
-(ord(c) + key * 3) % 256
-
-> You can define how each character is transformed mathematically.  
-
----
-
 
 ## 💡 Inspiration
 
 > The name EnkuShield comes from “Enku” meaning pearl or treasure symbolizing valuable protection.
 Just like a shield it guards your data with layers of encryption and creativity.
-
----
 
 ## 🎮 Use in Capture The Flag (CTF)
 
@@ -51,13 +32,10 @@ EnkuShield is a powerful all in one CTF helper whether you’re reversing Base64
 You can quickly test multiple ciphers when analyzing encoded strings or create your own encryption puzzles using custom formulas.
 
 
----
-
 ## 🧾 License
 
 This project is licensed under the MIT License.
 
----
 
 ## 🤝 Contribute
 
@@ -65,7 +43,6 @@ Want to add your own cipher or formula idea?
 Fork the repo and submit a pull request!
 Let’s make EnkuShield smarter together 🧠💪
 
----
 
 ## 💬 Author
 
@@ -82,4 +59,3 @@ Let’s make EnkuShield smarter together 🧠💪
 
 ⭐ If you like this project, give it a star on GitHub and share it with your fellow CTF players!
 
----
