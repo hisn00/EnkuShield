@@ -6,45 +6,45 @@ EnkuShield is an interactive cryptography tool designed for encoding and decodin
 
 Built with 💻 Python it combines simplicity, power and flexibility.  
 Perfect for:  
-- 🧠 Learning cryptography  
-- 🔐 CTF (Capture The Flag) competitions  
-- 📁 File protection and text encryption  
-- ⚙️ Creating your own encryption logic
+-  Learning cryptography  
+-  CTF (Capture The Flag) competitions  
+-  File protection and text encryption  
+-  Creating your own encryption logic
 
 ---
 
-## ✨ Features
+##  Features
 
-- ✅ 15+ encryption/decryption methods
-- ✅ Custom Formula Mode — add your own math based encryption rule
-- ✅ File encryption support    
-- ✅ Fast and simple Flask backend  
-- ✅ CTF ready — instantly encode/decode with all the common algorithms used in competitions  
+-  15+ encryption/decryption methods
+-  Custom Formula Mode — add your own math based encryption rule
+-  File encryption support    
+-  Fast and simple Flask backend  
+-  CTF ready — instantly encode/decode with all the common algorithms used in competitions  
 
-## 💡 Inspiration
+##  Inspiration
 
 > The name EnkuShield comes from “Enku” meaning pearl or treasure symbolizing valuable protection.
 Just like a shield it guards your data with layers of encryption and creativity.
 
-## 🎮 Use in Capture The Flag (CTF)
+##  Use in Capture The Flag (CTF)
 
 EnkuShield is a powerful all in one CTF helper whether you’re reversing Base64, decoding ROT13 or testing XOR encryptio it’s got you covered.
 You can quickly test multiple ciphers when analyzing encoded strings or create your own encryption puzzles using custom formulas.
 
 
-## 🧾 License
+##  License
 
 This project is licensed under the MIT License.
 
 
-## 🤝 Contribute
+##  Contribute
 
 Want to add your own cipher or formula idea?
 Fork the repo and submit a pull request!
-Let’s make EnkuShield smarter together 🧠💪
+Let’s make EnkuShield smarter together 
 
 
-## 💬 Author
+##  Author
 
 👩‍💻 Hisnul Mohammed
 ✨ Passionate about cybersecurity.
