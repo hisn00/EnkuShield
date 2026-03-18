@@ -1,4 +1,4 @@
-# 🛡️ EnkuShield
+# EnkuShield
  
 > *A smart customizable encryption toolkit for developers, students and CTF enthusiasts.*
 
